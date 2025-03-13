@@ -20,3 +20,4 @@ pip install Pillow
 ```
 ## 실행 초기화면
 <img src="images/default_view.png" alt="초기화면">
+
